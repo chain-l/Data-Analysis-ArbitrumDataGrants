@@ -3,6 +3,7 @@
 # Dataset for Analyzing Voting Patterns in Arbitrum DAO Proposals
 
 This repository contains the dataset used for analyzing the voting pattern with the timeline in mind. It was an effort to understand the voting across Day 1 - 7 on 143 Snapshot proposals the Arbitrum DAO members voted upon.
+Large Dataset file link is provided in the resources below as the size is too large to be uploaded here.
 
 ## Main Task Description
 
